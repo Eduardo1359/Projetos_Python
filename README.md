@@ -9,8 +9,8 @@ Este projeto é um **dashboard interativo** criado com [Dash](https://dash.plotl
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/Eduardo1359/Projetos_Python
+   cd Projetos_Python
    ```
 
 2. Instale as dependências:
